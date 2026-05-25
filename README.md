@@ -1,3 +1,7 @@
+**[▶ Open live](https://kopalych1.github.io/goit-advancedjs-hw-01/)**
+
+
+
 # Vanilla App Template
 
 Цей проект було створено за допомогою Vite. Для знайомства та налаштування
